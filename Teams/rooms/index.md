@@ -26,7 +26,7 @@ ms.custom: seo-marvel-may2020; intro-overview
 
        Start meetings on time with one-touch join, then instantly project to the display in the room and share to remote participants.
 
-       Select the right system and audio video peripherals from one of our partners: Dell, Yealink, Logitech, Crestron, Polycom, Lenovo, and HP.
+       Select the right system and audio video peripherals from one of our partners: Dell, Yealink, Logitech, Crestron, Poly, Lenovo, and HP.
 
        For a quick introduction to Teams Rooms, click on the video to the right.
     :::column-end:::
